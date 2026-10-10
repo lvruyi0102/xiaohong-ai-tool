@@ -1,2 +1,14 @@
-# xiaohong-ai-tool
-AI-powered Xiaohongshu (Little Red Book) content generator and optimizer. Free tool for creators to generate high-performing notes, titles, hashtags. Part of Project 2B.
+# AI 小红书文案生成器
+
+一个从零成本启动的AI工具，专为小红书创作者生成高点击笔记文案。
+
+## 当前状态
+
+- MVP 开发中
+- 目标：快速上线获取用户反馈，验证需求，然后增加变现功能
+
+## Project 2B 目标
+
+从 0 元启动，通过合法数字产品与AI工具达到 2 亿元净收入。
+
+此仓库为第一阶段实验项目。
